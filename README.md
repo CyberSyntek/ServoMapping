@@ -1,4 +1,5 @@
-This is my current servo mapping settings. (02/28/2024) These figures may change over time and this document is being created as a backup copy for my own usage. 
+This is my current servo mapping settings. (02/28/2024) 
+- These figures may change over time and this document is being created as a backup copy for my own usage. 
 - Please only use these figures as reference if viewing this document as you mapping values may not be the same as mine. 
 
 
